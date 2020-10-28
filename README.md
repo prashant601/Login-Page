@@ -4,7 +4,7 @@ a flutter based login page
 
 ## screenshot of login page 
 
-<img src="ss login_page.jpg" width="500">
+<img src="ss login_page.jpg" width="350">
 
 
 
